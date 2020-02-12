@@ -1,8 +1,8 @@
 # Workshop_Game_Flappy_Bird
 
 ## General informations
-Name : my_runner<br />
+Name : Workshop_Flappy_Bird<br />
 Author : Mathias Ressort
 
 ## Requirement Package
-* CSFML
+* Unity
