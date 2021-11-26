@@ -6,7 +6,7 @@ public class Spawn : MonoBehaviour
 {
     void Start()
     {
-        InvokeRepeating(//
+        //InvokeRepeating();
     }
 
     void Update()
@@ -16,6 +16,6 @@ public class Spawn : MonoBehaviour
 
     void CreateObstacle()
     {
-        Instantiate(//
+        //Instantiate();
     }
 }

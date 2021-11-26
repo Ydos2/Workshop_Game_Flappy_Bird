@@ -9,7 +9,7 @@ public class MoveObstacles : MonoBehaviour
 
     void Start()
     {
-        transform.position =//
+        //transform.position =
     }
 
     void Update()

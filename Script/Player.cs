@@ -23,11 +23,6 @@ public class Player : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-         die();
-    }
-
-    void die()
-    {
-        //
+        //die
     }
 }
